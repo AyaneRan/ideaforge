@@ -31,9 +31,9 @@ The following tool versions have been verified for development:
 
 | Tool | Verified version |
 | --- | --- |
-| Docker Engine | 27.5.1 |
-| Docker Compose | v2.32.4 |
-| Visual Studio Code | 1.97.2 |
+| Docker Engine | 28.5.1 |
+| Docker Compose | 2.40.2-desktop.1 |
+| Visual Studio Code | 1.127.0 |
 
 ## Development principles
 
