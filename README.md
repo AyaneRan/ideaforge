@@ -8,6 +8,12 @@ The service will manage projects, requirements, tasks, architecture decisions, a
 
 Repository initialization is in progress. Application code has not been implemented yet.
 
+## Prerequisites
+
+- Node.js 24.18.0 LTS
+- npm 11.16.0
+- Docker Desktop
+
 ## Planned stack
 
 - TypeScript
