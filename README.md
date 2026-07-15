@@ -25,6 +25,16 @@ Repository initialization is in progress. Application code has not been implemen
 - AWS
 - Terraform
 
+## Development environment
+
+The following tool versions have been verified for development:
+
+| Tool | Verified version |
+| --- | --- |
+| Docker Engine | 27.5.1 |
+| Docker Compose | v2.32.4 |
+| Visual Studio Code | 1.97.2 |
+
 ## Development principles
 
 - Every change starts from an issue with acceptance criteria.
